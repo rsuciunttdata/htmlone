@@ -1,2 +1,2 @@
 # htmlone
-My first html repositiry
+My first html repository
